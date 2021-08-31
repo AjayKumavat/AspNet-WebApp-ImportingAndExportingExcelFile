@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet-Excel-Import-Export-Data", "AspNet-Excel-Import-Export-Data\AspNet-Excel-Import-Export-Data.csproj", "{72ED6A87-C64E-410B-BB6F-2A9BF3E06708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72ED6A87-C64E-410B-BB6F-2A9BF3E06708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ED6A87-C64E-410B-BB6F-2A9BF3E06708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ED6A87-C64E-410B-BB6F-2A9BF3E06708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ED6A87-C64E-410B-BB6F-2A9BF3E06708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5EDE1BA-3F2B-4186-A2E1-5C4F56FDBBC0}
+	EndGlobalSection
+EndGlobal
